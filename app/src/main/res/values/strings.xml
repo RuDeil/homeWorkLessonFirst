@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homeWorkLessonFirst</string>
+
+        <string name="firstButtonText">На экарн смены текста--></string>
+        <string name="firstTextView">Тут будет ваш текст!</string>
+        <string name="secondButtonText">На экран с текстом!</string>
+        <string name="editText">Введите новую надпись!</string>
+
+
+
+</resources>
